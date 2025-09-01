@@ -4,7 +4,7 @@ This project is an exploratory data analysis of the public Airbnb dataset for Al
 
 **Tech Stack:** Python, Pandas, Plotly, Jupyter Notebook
 
-
+![Albany Price Map](albany_price_map.png)
 
 ---
 
