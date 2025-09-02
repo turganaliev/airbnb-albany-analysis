@@ -38,7 +38,8 @@ To replicate this analysis, clone the repository and install the required librar
 2.  **Create a virtual environment and install dependencies:**
     ```bash
     python -m venv venv
-    source venv/bin/activate
+    source venv/bin/activate  # On macOS/Linux
+    # On Windows, use: .\venv\Scripts\activate
     pip install -r requirements.txt
     ```
 3.  **Run the Analysis:**
